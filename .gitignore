@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# Secrets
+.env
+.env.*
+
+# Generated translation data
+chapters_raw/
+chapters_translated/
+translation_progress.json
+
+# Generated documents
+*.docx
+*.pdf
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
